@@ -1,4 +1,11 @@
-[![Mr.SAGE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&theme=merko)](https://github.com/thehackingsage)
-
-
-[![Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=%40thehackingsage&up_color=green&up_message=portfolio&url=https%3A%2F%2Fthehackingsage.github.io)](https://thehackingsage.github.io)    [![Blog](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=%40hacktronian&up_color=green&up_message=blog&url=https%3A%2F%2Fhacktronian.github.io)](https://hacktronian.github.io)   [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=plastic&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/thehackingsage/)](https://www.instagram.com/thehackingsage/)   [![Twitter](https://img.shields.io/twitter/follow/thehackingsage?style=social)](https://twitter.com/thehackingsage)   [![Github](https://img.shields.io/github/followers/thehackingsage?style=social)](https://github.com/thehackingsage/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=plastic&logo=postwoman&logoColor=white&link=https://thehackingsage.github.io)](https://thehackingsage.github.io)
+[![Hacktronian Badge](https://img.shields.io/badge/-Hacktronian-darkgreen?style=plastic&logo=ubuntu&logoColor=white&link=https://hacktronian.github.io)](https://hacktronian.github.io)
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-orange?style=plastic&logo=blogger&logoColor=white&link=https://hacktronian.blogspot.com)](https://thehacktronian.blogspot.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/thehackingsage)](https://instagram.com/thehackingsage)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/thehackingsage)](https://twitter.com/thehackingsage)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&link=https://github.com/thehackingsage)](https://github.com/thehackingsage)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=plastic&logo=youtube&logoColor=white&link=https://youtube.com/hacktronian)](https://youtube.com/hacktronian)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thehackingsage/)](https://linkedin.com/in/thehackingsage/)
+[![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=plastic&logo=codesandbox&logoColor=lightgreen&link=https://hackthebox.eu/profile/38608)](https://hackthebox.eu/profile/38608)
+[![THM Badge](https://img.shields.io/badge/-TryHackMe-gray?style=plastic&logo=icloud&logoColor=white&link=https://tryhackme.com/p/mr.sage)](https://tryhackme.com/p/mr.sage)
+[![Gmail Badge](https://img.shields.io/badge/-Contact_Me-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:thehackingsage@gmail.com)](mailto:thehackingsage@gmail.com)
