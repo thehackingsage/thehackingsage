@@ -8,4 +8,3 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thehackingsage/)](https://linkedin.com/in/thehackingsage/)
 [![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=plastic&logo=codesandbox&logoColor=lightgreen&link=https://hackthebox.eu/profile/38608)](https://hackthebox.eu/profile/38608)
 [![THM Badge](https://img.shields.io/badge/-TryHackMe-gray?style=plastic&logo=icloud&logoColor=white&link=https://tryhackme.com/p/mr.sage)](https://tryhackme.com/p/mr.sage)
-[![Gmail Badge](https://img.shields.io/badge/-Contact_Me-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:thehackingsage@gmail.com)](mailto:thehackingsage@gmail.com)
