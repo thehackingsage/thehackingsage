@@ -4,7 +4,7 @@
   
 ## Hello! there 👋 I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
 
-- 👨🏻‍💻 I’m a Cyber Security Researcher
+- 💻 I’m a Cyber Security Researcher
 
 - 💼 Currently Working on a Network Pentesting Project
 
