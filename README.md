@@ -2,7 +2,7 @@
 
 <samp>
   
-## Hello! there 👋 I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
+## Hello! there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
 
 - 👨‍💻 I’m a Cyber Security Researcher
 
