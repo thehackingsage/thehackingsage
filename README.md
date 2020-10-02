@@ -22,7 +22,7 @@
 <br>
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=plastic&logo=postwoman&logoColor=white&link=https://thehackingsage.github.io)](https://thehackingsage.github.io)
-[![Hacktronian Badge](https://img.shields.io/badge/-Hacktronian-darkgreen?style=plastic&logo=ubuntu&logoColor=white&link=https://hacktronian.github.io)](https://hacktronian.github.io)
+[![Hacktronian Badge](https://img.shields.io/badge/-Hacktronian-darkgreen?style=plastic&logo=ubuntu&logoColor=white&link=https://hacktronian.in)](https://hacktronian.in)
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-orange?style=plastic&logo=blogger&logoColor=white&link=https://hacktronian.blogspot.com)](https://thehacktronian.blogspot.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/thehackingsage)](https://instagram.com/thehackingsage)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/thehackingsage)](https://twitter.com/thehackingsage)
