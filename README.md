@@ -1,8 +1,6 @@
 <img src="https://github.com/thehackingsage/thehackingsage/blob/master/hello,world!.gif?raw=true" width="200"/>
 
 <samp>
-
-<samp>
   
 ## Hello! there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
 
