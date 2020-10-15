@@ -1,6 +1,8 @@
 <img src="https://github.com/thehackingsage/thehackingsage/blob/master/hello,world!.gif?raw=true" width="200"/>
 
 <samp>
+
+<samp>
   
 ## Hello! there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
 
@@ -12,7 +14,7 @@
 
 - 🎲 My Interests Are Mostly: CTF, Python, Bash Scripting, Android & Web Designing
 
-- 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `XERO#1024`
+- 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `MrSAGE#1337`
 
 - 📧 Contact Me : <a href="mailto:thehackingsage@gmail.com">thehackingsage@gmail.com</a>
 
