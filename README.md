@@ -12,7 +12,7 @@
 
 - 🎲 My Interests Are Mostly: CTF, Python, Bash Scripting, Android & Web Designing
 
-- 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `MrSAGE#1337`
+- 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `Mr SAGE#1337`
 
 - 📧 Contact Me : <a href="mailto:thehackingsage@gmail.com">thehackingsage@gmail.com</a>
 
