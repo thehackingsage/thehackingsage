@@ -1,10 +1,8 @@
-<img src="https://github.com/thehackingsage/thehackingsage/blob/master/hello,world!.gif?raw=true" width="200"/>
-
 <samp>
-  
-## Hello! there <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/> I'm <a href="https://thehackingsage.github.io/" target="_blank">Vipul</a> :alien:
 
-- 👨‍💻 I’m a Cyber Security Researcher
+## Hello! There, I'm Vipul 👽✌🏼
+  
+- 👨‍💻 I’m a Security Enthusiast / Pentester / CEH 
 
 - 💼 Currently Working on a Network Pentesting Project
 
@@ -18,16 +16,14 @@
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
-</samp>
-<br>
+</samp><br>
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=plastic&logo=postwoman&logoColor=white&link=https://thehackingsage.github.io)](https://thehackingsage.github.io)
-[![Hacktronian Badge](https://img.shields.io/badge/-Hacktronian-darkgreen?style=plastic&logo=ubuntu&logoColor=white&link=https://hacktronian.in)](https://hacktronian.in)
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-orange?style=plastic&logo=blogger&logoColor=white&link=https://hacktronian.blogspot.com)](https://thehacktronian.blogspot.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/thehackingsage)](https://instagram.com/thehackingsage)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/thehackingsage)](https://twitter.com/thehackingsage)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&link=https://github.com/thehackingsage)](https://github.com/thehackingsage)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=plastic&logo=youtube&logoColor=white&link=https://youtube.com/hacktronian)](https://youtube.com/hacktronian)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thehackingsage/)](https://linkedin.com/in/thehackingsage/)
-[![HTB Badge](https://img.shields.io/badge/-HackTheBox-black?style=plastic&logo=codesandbox&logoColor=lightgreen&link=https://hackthebox.eu/profile/38608)](https://hackthebox.eu/profile/38608)
-[![THM Badge](https://img.shields.io/badge/-TryHackMe-gray?style=plastic&logo=icloud&logoColor=white&link=https://tryhackme.com/p/mr.sage)](https://tryhackme.com/p/mr.sage)
+[![Portfolio](https://img.shields.io/badge/-Mr.SAGE-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://thehackingsage.github.io)
+[![Hacktronian](https://img.shields.io/badge/-Hacktronian-11c28a?style=flat&logo=powershell&logoColor=white)](https://hacktronian.in)
+[![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/thehackingsage)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/thehackingsage)
+[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/thehackingsage)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thehackingsage/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/hacktronian)
+[![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://hackthebox.eu/profile/38608)
+[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/mr.sage)
