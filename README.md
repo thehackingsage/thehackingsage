@@ -1,4 +1,4 @@
-[![Mr.SAGE](https://github.com/thehackingsage/thehackingsage/raw/master/mr_sage.png)](https://thehackingsage.github.io)
+[![Mr.SAGE](https://github.com/thehackingsage/thehackingsage/raw/master/mr-sage.png)](https://thehackingsage.github.io)
 
 <samp>
   
