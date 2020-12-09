@@ -1,9 +1,6 @@
+[![Mr.SAGE](https://github.com/thehackingsage/thehackingsage/raw/master/mr.sage.jpg)](https://thehackingsage.github.io)
+
 <samp>
-
-## Hello! There, I'm Vipul 👽✌🏼
-
-<p><a href="https://github.com/thehackingsage"><img title="Mr.SAGE" src="https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&include_all_commits=true&theme=dark&cache_seconds=3200"></a>
-</p>
   
 - 👨‍💻 I’m a Security Enthusiast / Pentester / CEH 
 
