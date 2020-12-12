@@ -12,7 +12,7 @@
 
 - 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `Mr SAGE#1337`
 
-- 📧 Contact Me : <a href="mailto:thehackingsage@gmail.com">thehackingsage@gmail.com</a>
+- 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
