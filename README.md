@@ -2,9 +2,7 @@
 
 <samp>
   
-- 👨‍💻 I’m a Security Enthusiast / Pentester / CEH 
-
-- 💼 Currently Working on a Network Pentesting Project
+- 👨‍💻 I’m a Security Enthusiast / Pentester / CEH
 
 - 🤝 Looking for Penetration Testing or Web Development Projects
 
