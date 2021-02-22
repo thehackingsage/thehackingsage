@@ -10,6 +10,8 @@
 
 - 🎮 <a href="https://playvalorant.com/en-us/" target="_blank">Valorant</a> ID : `Mr SAGE#1337`
 
+- 👾 <a href="https://discord.com/" target="_blank">Discord</a> : Mr.SΛGΣ#9779
+
 - 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
