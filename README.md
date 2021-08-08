@@ -16,7 +16,9 @@
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
-</samp><br>
+</samp>
+
+![Mr.SAGE's github stats](https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&hide_border=true&theme=dark) <br>
 
 [![Portfolio](https://img.shields.io/badge/-Mr.SAGE-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://thehackingsage.github.io)
 [![Hacktronian](https://img.shields.io/badge/-Hacktronian-11c28a?style=flat&logo=powershell&logoColor=white)](https://hacktronian.in)
