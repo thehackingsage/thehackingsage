@@ -8,7 +8,9 @@
 
 - 🎲 My Interests Are Mostly: CTF, Python, Bash Scripting, Android & Web Designing (Creative Portfolio)
 
-- 👾 <a href="https://discord.com/" target="_blank">Discord</a> : Mr.SΛGΣ#9779
+- 👾 Discord : <a href="https://discordapp.com/users/540789640177647627">Mr.SΛGΣ#9779</a>
+  
+- 🎮 League of Legends : <a href="https://www.leagueoflegends.com">Mr SAGE #1337</a>
 
 - 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
 
