@@ -10,7 +10,7 @@
 
 - 👾 Discord : <a href="https://discordapp.com/users/540789640177647627">Mr.SΛGΣ#9779</a>
   
-- 🎮 League of Legends : <a href="https://www.leagueoflegends.com">Mr SAGE #1337</a>
+- 🎮 League of Legends / Valorant : <a href="https://www.leagueoflegends.com">Mr SAGE #1337</a>
 
 - 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
 
