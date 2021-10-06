@@ -39,13 +39,15 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Bloodhound-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-OWASP%20Zap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
-  
-## 📝 Blogs
 
+<!-- ## 📝 Blogs
+
+- TryHackMe Writeup Walkthrough - https://github.com/thehackingsage/tryhackme
+- HackTheBox Writeup Walkthrough - https://github.com/thehackingsage/hackthebox
 - Portable Hacking Machine With Raspberry Pi : https://thehackingsage.com/work/hackpi.html
 - Pwn Phone - Dream Device For Hackers : https://thehackingsage.com/work/pwnphone.html
 - Customize Kali Linux : https://thehackingsage.com/work/customize-kali-linux.html
-- Customize Windows 10 : https://thehackingsage.com/work/customize-windows-10.html
+- Customize Windows 10 : https://thehackingsage.com/work/customize-windows-10.html -->
 
 ## 🌐 Hacktronian
 
