@@ -18,6 +18,9 @@
 - 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+  
+<!-- <h3 align="left">Github Stats </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&locale=en" alt="Ayyappan" /></p> -->
 
 ## 👨🏽‍💻 Skills & Tools
 
