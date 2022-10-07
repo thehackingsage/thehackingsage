@@ -19,8 +19,8 @@
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
-<!-- <h3 align="left">Github Stats </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&locale=en" alt="Ayyappan" /></p> -->
+<!--## 💻 Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehackingsage&show_icons=true&locale=en" alt="Ayyappan" /></p>-->
 
 ## 👨🏽‍💻 Skills & Tools
 
@@ -43,37 +43,24 @@
 ![](https://img.shields.io/badge/Tools-Bloodhound-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-OWASP%20Zap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 
-<!-- ## 📝 Blogs
+## 🌐 Free Resources :
 
+- Linux : https://hacktronian.in/resources/linux
+- Networking : https://hacktronian.in/resources/networking
+- Programming : https://hacktronian.in/resources/programming
+- Capture The Flag : https://hacktronian.in/resources/capture-the-flag
+- Bug Bounty : https://hacktronian.in/resources/bughunting
+- Ethical Hacking : https://hacktronian.in/resources/ethical-hacking
+- OSCP : https://hacktronian.in/resources/oscp
+
+## 📝 Blogs
+
+- HackTheBox Methodology - https://hacktronian.in/post/hackthebox-methodology
+- So You Wanna Create A Room On TryHackMe? - https://hacktronian.in/post/so-you-wanna-create-a-room-on-tryhackme
 - TryHackMe Writeup Walkthrough - https://github.com/thehackingsage/tryhackme
 - HackTheBox Writeup Walkthrough - https://github.com/thehackingsage/hackthebox
-- Portable Hacking Machine With Raspberry Pi : https://thehackingsage.com/work/hackpi.html
-- Pwn Phone - Dream Device For Hackers : https://thehackingsage.com/work/pwnphone.html
-- Customize Kali Linux : https://thehackingsage.com/work/customize-kali-linux.html
-- Customize Windows 10 : https://thehackingsage.com/work/customize-windows-10.html -->
-
-## 🌐 Hacktronian
-
-Hacktronian is a learning platform where my main objective is to provide cybersecurity resources and training to the people for free. https://hacktronian.in
-
-**Resources :**
-
-- Linux : https://hacktronian.in/resources/linux.html
-- Networking : https://hacktronian.in/resources/networking.html
-- Programming : https://hacktronian.in/resources/programming.html
-- Capture The Flag : https://hacktronian.in/resources/capture-the-flag.html
-- Bug Bounty : https://hacktronian.in/resources/bughunting.html
-- Ethical Hacking : Link will be updated soon !
-- OSCP : https://hacktronian.in/resources/oscp.html
-- Malware Analysis : Link will be updated soon !
-- Hacking with Mobile : Link will be updated soon !
-- OS for Pentesters : https://hacktronian.in/resources/operating-system.html
-
-<!--**Training :**
-
-- Linux : https://hacktronian.in/training/linux.html
-- Networking : https://hacktronian.in/training/networking.html
-- Pentesting : https://hacktronian.in/training/pentesting.html -->
+- Portable Hacking Machine With Raspberry Pi : https://hacktronian.in/post/portable-hacking-machine
+- Pwn Phone - Dream Device For Hackers : https://hacktronian.in/post/pwnphone
 
 ## 💬 Social Links
 
