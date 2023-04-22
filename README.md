@@ -9,13 +9,13 @@
 
 - 🤝🏽 Looking for Penetration Testing or Web Development Projects
 
-- 🎲 Interests : CTF / HTB, Writing Bash Scripts for Automation in Pentesting, Projects for Android and Raspberry Pi, Web Designing (Creative Portfolio).
+- 🎲 Interests : CTF & Web Designing
 
 - 👾 Discord : <a href="https://discordapp.com/users/540789640177647627">Mr.SΛGΣ#9779</a>
   
-- 🎮 League of Legends / Valorant : Mr SAGE #1337
+- 🎮 League of Legends : Mr SAGE #1337
 
-- 📧 Contact Me : <a href="mailto:thehackingsage@protonmail.com">thehackingsage@protonmail.com</a>
+- 📧 Contact Me : <a href="mailto:contact@thehackingsage.com">contact@thehackingsage.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
@@ -43,24 +43,19 @@
 ![](https://img.shields.io/badge/Tools-Bloodhound-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-OWASP%20Zap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 
-## 🌐 Free Resources :
+## 🌐 Resources
 
 - Linux : https://hacktronian.in/resources/linux
 - Networking : https://hacktronian.in/resources/networking
 - Programming : https://hacktronian.in/resources/programming
+- Ethical Hacking : https://hacktronian.in/resources/ethical-hacking
 - Capture The Flag : https://hacktronian.in/resources/capture-the-flag
 - Bug Bounty : https://hacktronian.in/resources/bughunting
-- Ethical Hacking : https://hacktronian.in/resources/ethical-hacking
 - OSCP : https://hacktronian.in/resources/oscp
-
-## 📝 Blogs
-
-- HackTheBox Methodology - https://hacktronian.in/post/hackthebox-methodology
-- So You Wanna Create A Room On TryHackMe? - https://hacktronian.in/post/so-you-wanna-create-a-room-on-tryhackme
-- TryHackMe Writeup Walkthrough - https://github.com/thehackingsage/tryhackme
-- HackTheBox Writeup Walkthrough - https://github.com/thehackingsage/hackthebox
-- Portable Hacking Machine With Raspberry Pi : https://hacktronian.in/post/portable-hacking-machine
-- Pwn Phone - Dream Device For Hackers : https://hacktronian.in/post/pwnphone
+- HackTheBox : https://hacktronian.in/resources/hackthebox
+- Cybersecurity Glossary : https://hacktronian.in/resources/glossary
+- TryHackMe Writeup Walkthrough : https://github.com/thehackingsage/tryhackme
+- HackTheBox Writeup Walkthrough : https://github.com/thehackingsage/hackthebox
 
 ## 💬 Social Links
 
@@ -74,4 +69,5 @@
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://hackthebox.eu/profile/38608)
 [![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/mr.sage)
 <!--[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=ffffff)](https://github.com/thehackingsage)-->
+
 </samp>
