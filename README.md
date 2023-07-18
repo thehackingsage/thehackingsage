@@ -1,13 +1,13 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thehackingsage.thehackingsage)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/thehackingsage?tab=repositories)
 
-[![Mr.SAGE](https://github.com/thehackingsage/thehackingsage/raw/master/thehackingsage.com.png)](https://thehackingsage.github.io)
+[![Mr.SAGE](https://thehackingsage.com/assets/images/thehackingsage.com.png)](https://thehackingsage.com)
 
 <samp>
   
-- 👨🏽‍💻 I’m a Security Enthusiast / Pentester
+- 👨🏽‍💻 I’m a Freelancer & Cybersecurity Enthusiast
 
-- 🤝🏽 Looking for Penetration Testing or Web Development Projects
+- 🤝🏽 Looking for VAPT & Web Development Projects
 
 - 🎲 Interests : CTF & Web Designing
 
@@ -42,6 +42,13 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Bloodhound-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-OWASP%20Zap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+
+## 💻 Services 
+
+- Branding : https://hacktronian.in/services/branding
+- Web Development : https://hacktronian.in/services/website-designing-and-development
+- Digital Marketing : https://hacktronian.in/services/digital-marketing
+- Cyber Security : https://hacktronian.in/services/vulnerability-assessment-and-penetration-testing
 
 ## 🌐 Resources
 
