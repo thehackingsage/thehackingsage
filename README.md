@@ -45,24 +45,27 @@
 
 ## 💻 Services 
 
-- Branding : https://hacktronian.in/services/branding
-- Web Development : https://hacktronian.in/services/website-designing-and-development
-- Digital Marketing : https://hacktronian.in/services/digital-marketing
-- Cyber Security : https://hacktronian.in/services/vulnerability-assessment-and-penetration-testing
+- Brand Identity : https://hacktronian.in/brand-identity
+- Graphic Design : https://hacktronian.in/graphic-design
+- Website Development : https://hacktronian.in/website-development
+- Digital Marketing : https://hacktronian.in/digital-marketing
+- Cyber Security : https://hacktronian.in/cybersecurity
 
 ## 🌐 Resources
 
-- Linux : https://hacktronian.in/resources/linux
-- Networking : https://hacktronian.in/resources/networking
-- Programming : https://hacktronian.in/resources/programming
-- Ethical Hacking : https://hacktronian.in/resources/ethical-hacking
-- Capture The Flag : https://hacktronian.in/resources/capture-the-flag
-- Bug Bounty : https://hacktronian.in/resources/bughunting
-- OSCP : https://hacktronian.in/resources/oscp
-- HackTheBox : https://hacktronian.in/resources/hackthebox
-- Cybersecurity Glossary : https://hacktronian.in/resources/glossary
-- TryHackMe Writeup Walkthrough : https://github.com/thehackingsage/tryhackme
-- HackTheBox Writeup Walkthrough : https://github.com/thehackingsage/hackthebox
+- Linux : https://hacktronian.in/learn/linux
+- Networking : https://hacktronian.in/learn/networking
+- Programming : https://hacktronian.in/learn/programming
+- Web Development : https://hacktronian.in/learn/webdev
+- Capture The Flag : https://hacktronian.in/learn/capture-the-flag
+- Bug Hunting : https://hacktronian.in/learn/bughunting
+- Hack The Box : https://hacktronian.in/learn/hackthebox
+- Pentesting : https://hacktronian.in/learn/pentesting
+- OSCP : https://hacktronian.in/learn/oscp
+- Android : https://hacktronian.in/learn/android
+- iOS : https://hacktronian.in/learn/ios
+- Operating System : https://hacktronian.in/learn/operating-system
+- Glossary : https://hacktronian.in/learn/glossary
 
 ## 💬 Social Links
 
