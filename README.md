@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thehackingsage.thehackingsage)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/thehackingsage?tab=repositories)
 
-[![Mr.SAGE](https://thehackingsage.com/assets/images/thehackingsage.com.png)](https://thehackingsage.com)
+[![Mr.SAGE](https://vipultiwari.com/assets/images/vipultiwari.com.png)](https://vipultiwari.com)
 
 <samp>
   
