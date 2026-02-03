@@ -15,7 +15,7 @@
   
 - 🎮 League of Legends : Mr SAGE #1337
 
-- 📧 Contact Me : <a href="mailto:contact@thehackingsage.com">contact@thehackingsage.com</a>
+- 📧 Contact Me : <a href="mailto:info@vipultiwari.com">info@vipultiwari.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
